@@ -1,14 +1,14 @@
 ## Reinhardts Individual Repo
 
-###Data Strctures Work 
+### Data Strctures Work 
 
 More yet to come...
 
-###Create Task work
+### Create Task work
 
 More yet to come...
 
-###Notes
+### Notes
 
 Notes On tech Talks and TPT
 
