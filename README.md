@@ -1,2 +1,4 @@
 ## Reinhardts Individual Repo
-Notes
+Notes On tech Talks and TPT
+Data Strctures Work
+Create Task work
