@@ -1,4 +1,14 @@
 ## Reinhardts Individual Repo
+
+Data Strctures Work 
+
+More yet to come...
+Create Task work
+
+More yet to come...
+
+Notes
+
 Notes On tech Talks and TPT
 
 Tech Talk 0
@@ -35,12 +45,3 @@ Digital divide
 * Contributing factors to divide are socioeconomic (money), geographic (location), demographic (education, nationality, religion, and ethnicity)
 * At the start of pandemic 90,000 school children in New Jersey did not have access to computers capable of distance learning.
 * In education equity requires school to provide materials like Computers or Chrome books. Here is some counter thinking.
-
-
-
-Data Strctures Work 
-
-More yet to come...
-Create Task work
-
-More yet to come...
