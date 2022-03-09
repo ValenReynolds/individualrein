@@ -12,39 +12,27 @@ More yet to come...
 
 ### Notes
 
-Notes On tech Talks and TPT
+5.1 Call to action
 
-Tech Talk 0
+Come up with three of your own Beneficial and corresponding Harmful Effects of Computing.
 
-How to make a python menu(see cspcoders society)
-When an error occurs, or "except"ion as we call it, Python will normally stop and generate an error message.
-These exceptions can be handled using the try statement:
-![image](https://user-images.githubusercontent.com/89236857/157340010-d6fb2384-a2ce-4f9c-a4fc-cd112fb79f34.png)
-All your code should be on replit for easy view. You must have version control connected and have history showing individual work.
-Many of the following concepts should be in your final Create Task
+Some beneficial effects of computig is that we can create programs that make carrying out tasks easier. databases with helpful and accesible information can be used to better inform society, it also can expand our possibilities through things such as simulations. But harmful effects might include people creating harmful programs, making personal information easily accesible, and simulations putting something bad into fruition.
 
-You will need to checkout on Python on several concepts like
+Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School? 
 
-A. Variable assignments
-B. Loops and zero based counting
-C. Dictionaries, Lists, Two-dimensional (2D) lists(arrays)
-D. Python Classes
-More...
+Dopamine issues are real. Games and social media sites are made to keep you hooked and interested in whatevr the game or website is. This can make distractions for students and workers and bring productivity down. Peronally I can get distracted by my phone when I should be doing work so I believe dopamine issues are real.
 
-Tech Talk 5.1-5.2
+5.2 Call to action
 
-5.1
+How does someone empower themself in a digital world?
 
-* UAVs/Drones are used in search & rescue, aerial photography, and for hobbies. However, there are many unintended usages. Also, there are many military usages.
-* Dopamine plays a role in how we feel pleasure. Video games and Social media are shown to impact people chemically. However, statistically some people's computer time may be greater than their sleep time. There are positives on games and social media.
-* Automated telephone trees were designed to save employers money, but also reduce hold time for customers. Innovations in phone trees, voice recognition, or keypads often enables customers to find answers quickly
+Someone can empower themselves in the digital world by reasearching and indulging themselves in things like coding and just finding out how computers and the digital world work.
 
-5.2
+How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
 
-Digital divide
+Something I could do at DNHS to help empower someone is explain a problem they are having with technology or shw them something basic in programming that can be useful or helful in the digital world.
 
-* Poorer or rural areas in America and other countries may have less or little access to Technology
-* Some countries may have different or restricted access, for instance China and USA may have divide in service allowed in their countries.
-* Contributing factors to divide are socioeconomic (money), geographic (location), demographic (education, nationality, religion, and ethnicity)
-* At the start of pandemic 90,000 school children in New Jersey did not have access to computers capable of distance learning.
-* In education equity requires school to provide materials like Computers or Chrome books. Here is some counter thinking.
+Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere? 
+
+There are red tape blockings at Del norte like with CSP. A persnal laptop is neede because it is difficult and tie consuming to download things on the given school computers. The problem with this si that it means only people with good access to technology can take courses such as CSP to learn more about programming and how computers work. It can happen in other places as well when there are things blocking or preventing everyone from accesing the digital world and the opportunities it holds.
+
