@@ -2,6 +2,6 @@
 
 <a href="notes.md">Notes Page</a>
 
-<a href="datastructures.md">Notes Page</a>
+<a href="datastructures.md">Data Structures Work Page</a>
 
-<a href="creatework.md">Notes Page</a>
+<a href="creatework.md">Create Task Work Page</a>
