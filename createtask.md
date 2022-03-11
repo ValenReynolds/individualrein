@@ -1,4 +1,4 @@
-% include navigation.html %}
+{% include navigation.html %}
 
 <h1>Create Task Work</h1>
 
