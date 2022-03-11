@@ -1,5 +1,5 @@
 <h1>Notes</h1>
-<h2>5.1 Call to Action</h2
+<h2>5.1 Call to Action</h2>
 
 <p>Come up with three of your own Beneficial and corresponding Harmful Effects of Computing.</p>
 
