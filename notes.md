@@ -1,24 +1,24 @@
-# NOTES
-## 5.1 Call to action
+<h1>Notes</h1>
+<h2>5.1 Call to Action</h2
 
-Come up with three of your own Beneficial and corresponding Harmful Effects of Computing.
+<p>Come up with three of your own Beneficial and corresponding Harmful Effects of Computing.</p>
 
-Some beneficial effects of computig is that we can create programs that make carrying out tasks easier. databases with helpful and accesible information can be used to better inform society, it also can expand our possibilities through things such as simulations. But harmful effects might include people creating harmful programs, making personal information easily accesible, and simulations putting something bad into fruition.
+<p>Some beneficial effects of computig is that we can create programs that make carrying out tasks easier. databases with helpful and accesible information can be used to better inform society, it also can expand our possibilities through things such as simulations. But harmful effects might include people creating harmful programs, making personal information easily accesible, and simulations putting something bad into fruition.</p>
 
-Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School? 
+<p>Talk about dopamine issues above. Real? Parent conspiracy? Anything that is impacting your personal study and success in High School?</p> 
 
-Dopamine issues are real. Games and social media sites are made to keep you hooked and interested in whatevr the game or website is. This can make distractions for students and workers and bring productivity down. Peronally I can get distracted by my phone when I should be doing work so I believe dopamine issues are real.
+<p>Dopamine issues are real. Games and social media sites are made to keep you hooked and interested in whatevr the game or website is. This can make distractions for students and workers and bring productivity down. Peronally I can get distracted by my phone when I should be doing work so I believe dopamine issues are real.</p>
 
-## 5.2 Call to action
+<h2>5.2 Call to action</h2>
 
-How does someone empower themself in a digital world?
+<p>How does someone empower themself in a digital world?</p>
 
-Someone can empower themselves in the digital world by reasearching and indulging themselves in things like coding and just finding out how computers and the digital world work.
+<p>Someone can empower themselves in the digital world by reasearching and indulging themselves in things like coding and just finding out how computers and the digital world work.</p>
 
-How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.
+<p>How does someone that is empowered help someone that is not empowered? Describe something you could do at Del Norte HS.</p>
 
-Something I could do at DNHS to help empower someone is explain a problem they are having with technology or shw them something basic in programming that can be useful or helful in the digital world.
+<p>Something I could do at DNHS to help empower someone is explain a problem they are having with technology or shw them something basic in programming that can be useful or helful in the digital world.</p>
 
-Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere? 
+<p>Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?</p> 
 
-There are red tape blockings at Del norte like with CSP. A persnal laptop is neede because it is difficult and tie consuming to download things on the given school computers. The problem with this si that it means only people with good access to technology can take courses such as CSP to learn more about programming and how computers work. It can happen in other places as well when there are things blocking or preventing everyone from accesing the digital world and the opportunities it holds.
+<p>There are red tape blockings at Del norte like with CSP. A persnal laptop is neede because it is difficult and tie consuming to download things on the given school computers. The problem with this si that it means only people with good access to technology can take courses such as CSP to learn more about programming and how computers work. It can happen in other places as well when there are things blocking or preventing everyone from accesing the digital world and the opportunities it holds.</p>
