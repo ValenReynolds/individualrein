@@ -1,6 +1,7 @@
 {% include navigation.html %}
 
 <h1>Data Structures Work</h1>
+<h3><a href= "https://replit.com/@ReinhardtLotter/Menu?v=1">Replit Link</a></h3>
 
 <iframe src="https://replit.com/@ReinhardtLotter/Menu?v=1" title="Menu Replit"></iframe>
 
