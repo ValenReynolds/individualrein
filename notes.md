@@ -1,3 +1,4 @@
+{% include navigation.html %}
 <h1>Notes</h1>
 <h2>5.1 Call to Action</h2>
 
