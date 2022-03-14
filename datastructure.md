@@ -2,7 +2,7 @@
 
 <h1>Data Structures Work</h1>
 
-<a href="https://replit.com/@ReinhardtLotter">Replit Link</a>
+<iframe src="https://replit.com/@ReinhardtLotter/Menu#main.py" title="Menu Replit"></iframe>
 
 <h2>Menu Code</h2>
 
