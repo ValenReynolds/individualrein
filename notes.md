@@ -23,3 +23,17 @@
 <p>Is paper or red tape blocking digital empowerment? Are there such barriers at Del Norte? Elsewhere?</p> 
 
 <p>There are red tape blockings at Del norte like with CSP. A persnal laptop is neede because it is difficult and tie consuming to download things on the given school computers. The problem with this si that it means only people with good access to technology can take courses such as CSP to learn more about programming and how computers work. It can happen in other places as well when there are things blocking or preventing everyone from accesing the digital world and the opportunities it holds.</p>
+
+<h2>5.3 Call to Action</h2>
+
+<p>yes the owner does think it is intentional because if it was not intetonal he wuld nto have labeled it as racist. This likely happened tho because during development HP did not crowdsource for other people with different facial features ad skin tones to see if the software still worked on them. I believ it is harmful and should be corrected because everyone deserves to use the software regardless of skin tone or color. One group of people should not get to reap he benefits while others can not. I would fix this by testing the software on many people with different faces and skin tones to make sure it works for everyone./p>
+
+<h2>5.4 Call to Action</h2>
+
+<p>CompSci has 150 principles students. Describe a crowdsource idea and how you might initiate it in our environment?</p>
+
+<p>A crowd source idea could be all of the students working collectively on a project or website. Parts could be split up between classes and classes could rotate between parts for input from everyone. This could be initistd by the teacher introducing it in every class and leaders in each class/group collaborating.</p>
+
+<p>What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?</p>
+
+<p>Crowd sourcing in Del Norte can be something like ideas on school events ans spirit days and all spirit and school related activities. Crowdsourcing can be used ot get ideas from all students so we can cater to all interests and revent certain students or groupds from feeling left out. </p>
