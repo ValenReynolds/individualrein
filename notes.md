@@ -26,7 +26,7 @@
 
 <h2>5.3 Call to Action</h2>
 
-<p>yes the owner does think it is intentional because if it was not intetonal he wuld nto have labeled it as racist. This likely happened tho because during development HP did not crowdsource for other people with different facial features ad skin tones to see if the software still worked on them. I believ it is harmful and should be corrected because everyone deserves to use the software regardless of skin tone or color. One group of people should not get to reap he benefits while others can not. I would fix this by testing the software on many people with different faces and skin tones to make sure it works for everyone./p>
+<p>yes the owner does think it is intentional because if it was not intetonal he wuld nto have labeled it as racist. This likely happened tho because during development HP did not crowdsource for other people with different facial features ad skin tones to see if the software still worked on them. I believ it is harmful and should be corrected because everyone deserves to use the software regardless of skin tone or color. One group of people should not get to reap he benefits while others can not. I would fix this by testing the software on many people with different faces and skin tones to make sure it works for everyone.</p>
 
 <h2>5.4 Call to Action</h2>
 
