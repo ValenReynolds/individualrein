@@ -3,10 +3,84 @@
 <h1>Data Structures Work</h1>
 <h3><a href= "https://replit.com/@ReinhardtLotter/Menu?v=1">Replit Link</a></h3>
 
-<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@ReinhardtLotter/menu?lite=true#main.py">
+<iframe frameborder="0" width="100%" height="800px" src="https://replit.com/@ReinhardtLotter/Menu?lite=true#src/main.py">
 
 <h2>Menu Code</h2>
 
+```
+    print("Fibonacci")
+n1, n2 = 0, 1
+count = 0
+print("Fibonacci sequence:")
+while count < 20:
+   print(n1)
+   sum = n1 + n2
+   n1 = n2
+   n2 = sum
+   count += 1
+ ```
+    
+```
+    InfoDb = []
+# List with dictionary records placed in a list  
+InfoDb.append({  
+               "FirstName": "Reinhardt",  
+               "LastName": "Lotter",  
+               "DOB": ["April 19"],  
+               "Favorite_Animal": ["Lion","Dolphin"],  
+               "Favorite_Colors":["Pink","Purple"]  
+              })  
+
+InfoDb.append({  
+               "FirstName": "Christoff",  
+               "LastName": "Lotter",  
+               "DOB": ["October 24"],  
+               "Favorite_Animal":["Shark","Zebra"],   
+               "Favorite_Colors":["Green"] 
+              })  
+
+# given an index this will print InfoDb content
+def print_data(n):
+    print(InfoDb[n]["FirstName"], InfoDb[n]["LastName"])  # using comma puts space between values
+    print("\t", "Favorite_Animal: ", end="")  # \t is a tab indent, end="" make sure no return occurs
+    print(", ".join(InfoDb[n]["Favorite_Animal"]))  # join allows printing a string list with separator
+    print()
+
+# Hack 2: InfoDB loops. Print values from the lists using three different ways: for, while, recursion
+
+  # hack 2a: def for_loop()
+# for loop iterates on length of InfoDb
+def for_loop():
+  for n in range(len(InfoDb)):
+      print_data(n)
+
+    
+  # hack 2b: def while_loop(0)
+# while loop contains an initial n and an index incrementing statement (n += 1)
+def while_loop(n):
+  while n < len(InfoDb):
+      print_data(n)
+      n += 1
+  return
+
+  # hack 2c : def recursive_loop(0)
+# recursion simulates loop incrementing on each call (n + 1) until exit condition is met
+def recursive_loop(n):
+  if n < len(InfoDb):
+      print_data(n)
+      recursive_loop(n + 1)
+  return # exit condition
+
+def InfoDb_loops():
+  print()
+  print("For loop:")
+  for_loop()
+  print("While loop:")
+  while_loop(0)  # requires initial index to start while
+  print("Recursive loop:")
+  recursive_loop(0)  # requires initial index to start recursion
+ ```
+    
 ```
 # menuy.py - function style menu
 # Imports typically listed at top
