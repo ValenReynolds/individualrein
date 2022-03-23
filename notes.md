@@ -37,3 +37,38 @@
 <p>What about Del Norte crowdsourcing? Could your final project be better with crowdsourcing?</p>
 
 <p>Crowd sourcing in Del Norte can be something like ideas on school events ans spirit days and all spirit and school related activities. Crowdsourcing can be used ot get ideas from all students so we can cater to all interests and revent certain students or groupds from feeling left out. </p>
+
+<h2>5.5 Call to Action</h2>
+
+<p>Some Licenses</p>
+
+<p>Creative commons: The work you create is open for anyone to use in anyway. It is public domian for the whole world.
+
+  Open Source MIT:This allows using code freely but being able to selle and distribute a closed source version.
+
+  GPL: Allows anything to be done to your code except closed source versions for distribution.
+</p>
+
+<p>Which one me and my team will be using</p>
+
+<p>My team has been using GPL for everyone to be alble to use and the share the code because our group believes in sharing code. For that same reason I as well will be using GPL.</p>
+
+<h2>5.6 Call to Action</h2>
+
+<p>Describe PII you have seen on project in CompSci Principles.
+  
+  PII on COmpSci P has included maybe a feature asking for your age or on something like the greet function it asks you for your name.
+
+  What are your feelings about PII and your exposure?
+  
+  I believe PII is important because some websites need it and some places it is ok to give it people jus thave to be safe with it. I think personally I have done a good job keeping my PII low and safe and not giving away very personal or private info.
+
+  Describe good and bad passwords? What is another step that is used to assist in authentication.
+  
+  Good passwords have a variety of characters, symbols, and numbers. They also arent simple words or phrases. Bad passwords are simple and not complex. A good password would be p@#!7ngk but a bad password would be 123456 or password.
+
+  Try to describe Symmetric and Asymmetric encryption.
+
+  Provide and example of encryption we used in deployment.
+
+  Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.</p>
