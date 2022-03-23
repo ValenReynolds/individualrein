@@ -68,7 +68,14 @@
   Good passwords have a variety of characters, symbols, and numbers. They also arent simple words or phrases. Bad passwords are simple and not complex. A good password would be p@#!7ngk but a bad password would be 123456 or password.
 
   Try to describe Symmetric and Asymmetric encryption.
+  
+  Symmetric encryption uses one secret key to encrypt and decrypt. While Asymmetric uses 2 keys. One public and one private key to encrypt or decrypt.
 
   Provide and example of encryption we used in deployment.
+  
+  We use asymmetrical encryption to keep unathorized changes from being made to the website.
 
-  Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.</p>
+  Describe a phishing scheme you have learned about the hard way. Describe some other phishing techniques.
+
+  I have never fallen for a phishing scheme but I know many others that have fallen for a specific one where they click on a link sent to them by a friend. This link often says they have a gift and to claim it they have to put in their account name and password. The website will then use the info to keep the scheme going and attacking more people.
+</p>
